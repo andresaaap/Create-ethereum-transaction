@@ -1,6 +1,14 @@
 # Create-ethereum-transaction
 
+
+
 ## How to run
+
+### Environment
+- Node v16.19.0
+- Ganache GUI 2.5.4
+
+### Steps
 
 Change directory to the project's root directory and install the node modules
 
